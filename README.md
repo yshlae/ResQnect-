@@ -69,7 +69,7 @@ To run the **ResQnect** system, follow these steps for a smooth experience:
 
 1. **Save the Code**  
    Clone or download the project files into a single directory.  
-   Ensure the files include the Java source files (e.g., `Volunteer.java`, `Resource.java`, `Task.java`, `Main.java`).  
+   Ensure the files include the Java source files (ex., `Volunteer.java`, `Resource.java`, `Task.java`, `Main.java`).  
 
 2. **Compile the Program**  
    - Open a terminal or command prompt.  
@@ -106,8 +106,8 @@ Enter the corresponding number to access the desired functionality.
 - Choose **1. Volunteer Management** from the main menu.  
 - The system will prompt you to:  
   - Enter the **name** of the volunteer.  
-  - Specify the **type** of volunteer (e.g., Medical, Rescue, or General).  
-  - Indicate the volunteer’s **availability** (e.g., Available or Unavailable).  
+  - Specify the **type** of volunteer (ex., Medical, Rescue, or General).  
+  - Indicate the volunteer’s **availability** (ex., Available or Unavailable).  
 - After inputting the details, the system will save the volunteer information for future use.  
 
 ---
@@ -126,7 +126,7 @@ Enter the corresponding number to access the desired functionality.
 - From the main menu, select **3. Task Assignment**.  
 - You will be asked to:  
   - Select an **available volunteer** from the list.  
-  - Assign a **task** (e.g., delivering medical aid, conducting rescue operations).  
+  - Assign a **task** (ex., delivering medical aid, conducting rescue operations).  
 - The system will update the task list and mark the task as **Assigned**, keeping a record of volunteer responsibilities.  
 
 ---
