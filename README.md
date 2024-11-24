@@ -26,7 +26,7 @@
 </div>
 
 ### Project Overview 🔍
-**ResQnect** is a disaster response management system designed to enhance the efficiency of relief operations. The system simplifies the coordination of volunteers, tracks essential resources like food and medical supplies, and assigns tasks to ensure organized disaster response efforts. With its streamlined interface, this enables users to manage volunteers, resources, and disaster-related tasks effectively. By facilitating clear communication and well-defined roles during emergencies, the system reduces delays and improves outcomes. Furthermore, it allows users to generate reports and analyze response times to continuously improve disaster readiness. The software is built with Object-Oriented Programming (OOP) principles, ensuring its modularity and maintainability. As communities face increasing risks from natural disasters, it serves as a tool to improve preparedness and resilience. Its ultimate goal is to empower local governments and organizations to save lives and resources during critical moments.
+**ResQnect** is a disaster response management system designed to enhance the efficiency of relief operations. The system simplifies the coordination of volunteers, tracks essential resources like food and medical supplies, and assigns tasks to ensure organized disaster response efforts. With its streamlined interface, this enables users to manage volunteers, resources, and disaster-related tasks effectively. By facilitating clear communication and well-defined roles during emergencies, the system reduces delays and improves outcomes. Furthermore, it allows users to generate reports and analyze response times to continuously improve disaster readiness. The software is built with Object-Oriented Programming (OOP) principles, ensuring its modularity and maintainability. As communities face increasing risks from natural disasters, it serves as a tool to improve preparedness and resilience. Its ultimate goal is to empower local governments and organizations to save lives and resources during critical situations.
 
 <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
 </div>
@@ -101,3 +101,8 @@ To run the **ResQnect** system, follow these steps for a smooth experience:
    - The program automatically saves data to files (e.g., `volunteers.json`, `resources.json`) to preserve it across sessions. Use the **Exit** option to terminate the application securely.
 
 By following these steps, users can efficiently utilize **ResQnect** to prepare for and respond to disasters while maintaining organized records and reports.
+
+<hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
+</div>
+
+<p align="center">🚨 <b>Prepare, Respond, Recover, Repeat!</b> 🚨</p> 
