@@ -140,7 +140,7 @@ Enter the corresponding number to access the desired functionality.
 
 ---
 
-## 7. Response Time Reports: Viewing Task Completion Statistics  
+## 7. Response Time Reports
 
 - Select **5. Response Time Reports** from the main menu.  
 - The system will generate detailed reports showing:  
