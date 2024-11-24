@@ -135,7 +135,7 @@ Enter the corresponding number to access the desired functionality.
 
 - Choose **4. Disaster Response Tracker** to view ongoing tasks.  
 - The system will display:  
-  - A list of assigned tasks with their **status** (e.g., Assigned, In Progress, Completed).  
+  - A list of assigned tasks with their **status** (ex., Assigned, In Progress, Completed).  
 - You can update task statuses to reflect real-time progress, ensuring efficient disaster management.  
 
 ---
