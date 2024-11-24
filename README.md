@@ -153,7 +153,6 @@ Enter the corresponding number to access the desired functionality.
 ## 8. Exit the Program  
 
 - Choose **6. Exit** to safely close the application.  
-- Ensure all tasks, volunteers, and resources are updated before exiting to maintain data integrity.  
 
 By following these steps, users can efficiently utilize **ResQnect** to prepare for and respond to disasters while maintaining organized records and reports.
 
