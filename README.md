@@ -63,35 +63,102 @@ In developing **ResQnect**, core Object-Oriented Programming (OOP) principles we
 
 To run the **ResQnect** system, follow these steps for a smooth experience:
 
-1. **Prepare the Code Files**  
-   - Save all the necessary Java files (e.g., `Volunteer.java`, `Resource.java`, `Task.java`, `DisasterResponseSystem.java`) in a single project folder.
+
+  # ResQnect Disaster Response and Relief Management System
+
+To run the **ResQnect Disaster Response and Relief Management System**, follow these detailed steps:
+
+---
+
+## 1. Setup and Run the Program  
+
+1. **Save the Code**  
+   Clone or download the project files into a single directory.  
+   Ensure the files include the Java source files (e.g., `Volunteer.java`, `Resource.java`, `Task.java`, `Main.java`).  
 
 2. **Compile the Program**  
-   - Open your terminal or IDE, navigate to the project folder, and compile the main script:
-     ```bash
-     javac DisasterResponseSystem.java
-     ```
+   - Open a terminal or command prompt.  
+   - Navigate to the directory where the files are stored.  
+   - Compile all Java files using the command:  
+     ```bash  
+     javac *.java  
+     ```  
 
-3. **Execute the Program**  
-   - Run the compiled program with:
-     ```bash
-     java DisasterResponseSystem
-     ```
+3. **Run the Program**  
+   - Start the system by running the main file:  
+     ```bash  
+     java Main  
+     ```  
+---
 
-4. **Main Menu Options**  
-   - After launching the program, you will be greeted with a menu offering the following options:
-     - **1. Manage Volunteers**: Add, view, update, or delete volunteers.  
-     - **2. Manage Resources**: Track resources like food, water, and medical supplies.  
-     - **3. Assign Tasks**: Assign specific disaster response tasks to volunteers.  
-     - **4. Track Tasks**: Monitor the progress of assigned tasks.  
-     - **5. Response Time Reports**: Generate reports for analysis and future planning.  
-     - **6. Exit**: Close the application safely.
+## 2. Main Menu  
 
-5. **Perform Actions**  
-   - Navigate through the menu by entering the corresponding number for each option. For instance, selecting **1** will allow you to manage volunteer information, such as adding a new volunteer with their details.
+When the program starts, the main menu will be displayed, offering the following options:  
 
-6. **Save and Exit**  
-   - The program automatically saves data to files (e.g., `volunteers.json`, `resources.json`) to preserve it across sessions. Use the **Exit** option to terminate the application securely.
+1. Volunteer Management  
+2. Resource Management  
+3. Task Assignment  
+4. Disaster Response Tracker  
+5. Response Time Reports  
+6. Exit  
+
+Enter the corresponding number to access the desired functionality.  
+
+---
+
+## 3. Volunteer Management: Adding a New Volunteer  
+
+- Choose **1. Volunteer Management** from the main menu.  
+- The system will prompt you to:  
+  - Enter the **name** of the volunteer.  
+  - Specify the **type** of volunteer (e.g., Medical, Rescue, or General).  
+  - Indicate the volunteer’s **availability** (e.g., Available or Unavailable).  
+- After inputting the details, the system will save the volunteer information for future use.  
+
+---
+
+## 4. Resource Management: Adding Resources  
+
+- Select **2. Resource Management** from the main menu.  
+- The system will prompt you to add critical disaster response resources:  
+  - Enter details such as the quantity of **food**, **water**, or **medical supplies**.  
+- Resource data will be stored securely and accessed when needed during disaster management.  
+
+---
+
+## 5. Task Assignment: Assigning Tasks to Volunteers  
+
+- From the main menu, select **3. Task Assignment**.  
+- You will be asked to:  
+  - Select an **available volunteer** from the list.  
+  - Assign a **task** (e.g., delivering medical aid, conducting rescue operations).  
+- The system will update the task list and mark the task as **Assigned**, keeping a record of volunteer responsibilities.  
+
+---
+
+## 6. Disaster Response Tracker: Tracking and Updating Tasks  
+
+- Choose **4. Disaster Response Tracker** to view ongoing tasks.  
+- The system will display:  
+  - A list of assigned tasks with their **status** (e.g., Assigned, In Progress, Completed).  
+- You can update task statuses to reflect real-time progress, ensuring efficient disaster management.  
+
+---
+
+## 7. Response Time Reports: Viewing Task Completion Statistics  
+
+- Select **5. Response Time Reports** from the main menu.  
+- The system will generate detailed reports showing:  
+  - The time taken to complete each task.  
+  - The assigned and completion timestamps.  
+- These insights help analyze the efficiency of disaster response operations.  
+
+---
+
+## 8. Exit the Program  
+
+- Choose **6. Exit** to safely close the application.  
+- Ensure all tasks, volunteers, and resources are updated before exiting to maintain data integrity.  
 
 By following these steps, users can efficiently utilize **ResQnect** to prepare for and respond to disasters while maintaining organized records and reports.
 
