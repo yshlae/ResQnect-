@@ -63,11 +63,6 @@ In developing **ResQnect**, core Object-Oriented Programming (OOP) principles we
 
 To run the **ResQnect** system, follow these steps for a smooth experience:
 
-
-  # ResQnect Disaster Response and Relief Management System
-
-To run the **ResQnect Disaster Response and Relief Management System**, follow these detailed steps:
-
 ---
 
 ## 1. Setup and Run the Program  
