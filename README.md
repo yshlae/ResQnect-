@@ -32,7 +32,7 @@
 </div>
 
 ### Application of OOP Principles 🛠️
-The development of **ResQnect** relies on Object-Oriented Programming (OOP) principles to structure the codebase efficiently. Here's how each principle was implemented:
+In developing **ResQnect**, core Object-Oriented Programming (OOP) principles were applied to create a modular and efficient system. Here's how each principle was implemented:
 
 - **Encapsulation** 💊  
   In the code, data related to volunteers, resources, and tasks is stored in private attributes within classes like `Volunteer`, `Resource`, and `Task`. These private attributes are accessed and modified only through getter and setter methods, ensuring the integrity of the data. For example, the `Resource` class ensures that the quantity of items cannot be set to a negative value, protecting the data from invalid inputs.
