@@ -54,14 +54,7 @@ In developing **ResQnect**, core Object-Oriented Programming (OOP) principles we
   <img src="https://github.com/yshlae/ResQnect/blob/main/images/SDG%20Goal%2011.png" alt="SDG Goal 11" width="1000">
 </div>
 
-**Sustainable Development Goal (SDG) 11: Sustainable Cities and Communities** focuses on building safe, inclusive, and resilient communities. **ResQnect** contributes to this goal in several ways:
-
-1. **Preparedness**: Tracks and manages essential resources such as food, water, and medical supplies to ensure readiness for emergencies.  
-2. **Efficient Response**: Organizes volunteers and assigns tasks systematically to reduce response time during disasters.  
-3. **Data-Driven Improvements**: Analyzes disaster response data to refine strategies and enhance future disaster preparedness.  
-4. **Community Support**: Strengthens local disaster management efforts by providing an easy-to-use system for relief coordination.
-
-By aligning with SDG 11, **ResQnect** empowers communities to handle disasters more effectively, minimizing loss of life and damage.
+**Sustainable Development Goal (SDG) 11: Sustainable Cities and Communities** emphasizes creating safe, resilient, and inclusive communities, and **ResQnect** directly contributes to this goal. The system improves preparedness by enabling local governments and organizations to track and manage critical resources such as food, water, and medical supplies, ensuring readiness for emergencies. It facilitates an efficient response by streamlining the assignment of tasks to volunteers, reducing delays in relief operations. This also supports recovery efforts by providing tools to monitor and track the completion of disaster response activities, ensuring affected communities receive timely support. Moreover, the system promotes resilience by generating detailed reports that analyze response times and resource usage, which can be used to improve future disaster preparedness strategies.
 
 <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
 </div>
