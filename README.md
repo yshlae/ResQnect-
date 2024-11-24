@@ -3,7 +3,7 @@
   
   <h1>ResQnect</h1>
   
-  <h3>🚨 Prepare, Respond, Recover, Repeat. 🚨 <br>
+  <h3>🪢 Prepare, Respond, Recover, Repeat. 🪢 <br>
   A disaster response management system for communities. Built for support, made to connect.</h3>
   
   <p><b>IT 2104</b><br>
