@@ -69,7 +69,6 @@ To run the **ResQnect** system, follow these steps for a smooth experience:
 
 1. **Save the Code**  
    Clone or download the project files into a single directory.  
-   Ensure the files include the Java source files (ex., `Volunteer.java`, `Resource.java`, `Task.java`, `Main.java`).  
 
 2. **Compile the Program**  
    - Open a terminal or command prompt.  
