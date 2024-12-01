@@ -106,7 +106,7 @@ Enter the corresponding number to access the desired functionality.
 - The system will prompt you to:  
   - Enter the **name** of the volunteer.  
   - Specify the **type** of volunteer (ex., Medical, Rescue, or General).  
-  - Indicate the volunteer’s **availability** (ex., Available or Unavailable).  
+  - Indicate the volunteer’s **availability** (ex., Available (Yes) or Unavailable (No)).  
 - After inputting the details, the system will save the volunteer information for future use.  
 
 ---
